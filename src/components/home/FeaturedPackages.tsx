@@ -242,7 +242,7 @@ export function FeaturedPackages() {
           </Link>
           
           <p className="text-muted-foreground text-sm mt-4">
-            Can't find what you're looking for? 
+            Can&apos;t find what you&apos;re looking for? 
             <Link href="/packages/custom-packages/ai-planner" className="text-primary hover:underline ml-1">
               Create a custom itinerary
             </Link>

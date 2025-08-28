@@ -2,6 +2,10 @@ export * from './destination';
 export * from './booking';
 export * from './package';
 
+// Import types that are used in this file
+import type { TripPreferences } from './booking';
+import type { DateRange } from './package';
+
 export interface User {
   id: string;
   email: string;
@@ -65,6 +69,4 @@ export interface NavigationItem {
   featured?: boolean;
 }
 
-// Re-export types from other modules
-export type { TripPreferences } from './booking';
-export type { DateRange } from './package';
+// Note: TripPreferences and DateRange are already exported via the wildcard exports above

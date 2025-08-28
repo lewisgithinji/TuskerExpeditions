@@ -40,7 +40,7 @@ export function HeroSection() {
           {/* Badge */}
           <div className="inline-flex items-center px-4 py-2 rounded-full bg-savanna-gold/20 border border-savanna-gold/30 mb-8">
             <span className="text-savanna-gold font-medium text-sm">
-              🏆 Kenya's #1 Rated Safari Operator 2024
+              🏆 Kenya&apos;s #1 Rated Safari Operator 2024
             </span>
           </div>
 

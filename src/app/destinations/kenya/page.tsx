@@ -1,10 +1,10 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { MapPin, Camera, Calendar, Users, Clock, ArrowRight } from 'lucide-react';
+import { MapPin, Calendar, Clock, ArrowRight } from 'lucide-react';
 
 export const metadata: Metadata = {
   title: 'Kenya Safari Destinations | Masai Mara, Amboseli & More | Tusker Expeditions',
-  description: 'Discover Kenya\'s premier safari destinations including Masai Mara, Amboseli, Tsavo, Lake Nakuru and Samburu. Experience the Big Five and Great Migration.',
+  description: 'Discover Kenya&apos;s premier safari destinations including Masai Mara, Amboseli, Tsavo, Lake Nakuru and Samburu. Experience the Big Five and Great Migration.',
 };
 
 const kenyaDestinations = [
@@ -128,7 +128,7 @@ export default function KenyaDestinationsPage() {
             
             <p className="text-xl lg:text-2xl text-warm-ivory/90 mb-8 leading-relaxed">
               From the world-famous Masai Mara to the elephant paradise of Amboseli, 
-              Kenya offers some of Africa's most iconic safari experiences.
+              Kenya offers some of Africa&apos;s most iconic safari experiences.
             </p>
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-12">
@@ -161,7 +161,7 @@ export default function KenyaDestinationsPage() {
               Must-Visit Destinations
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Kenya's premier safari destinations that should be on every wildlife enthusiast's bucket list.
+              Kenya&apos;s premier safari destinations that should be on every wildlife enthusiast&apos;s bucket list.
             </p>
           </div>
 
@@ -236,7 +236,7 @@ export default function KenyaDestinationsPage() {
               More Destinations
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Discover Kenya's hidden gems and lesser-known destinations for unique safari experiences.
+              Discover Kenya&apos;s hidden gems and lesser-known destinations for unique safari experiences.
             </p>
           </div>
 

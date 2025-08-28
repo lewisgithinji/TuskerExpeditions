@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { MapPin, Star, Camera, Calendar, ArrowRight } from 'lucide-react';
+import { MapPin, Camera, Calendar, ArrowRight } from 'lucide-react';
 
 export const metadata: Metadata = {
   title: 'East African Safari Destinations | Tusker Expeditions',
