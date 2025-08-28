@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run:*)",
+      "Bash(npx next:*)",
+      "Bash(node_modules/.bin/next dev:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "C:\\Users\\pc\\OneDrive\\Documents\\Projects"
+    ]
+  }
+}
