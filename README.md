@@ -1,24 +1,46 @@
 # Tusker Expeditions - East African Safari Website
 
-A premium website for Tusker Expeditions, a Kenyan-based tours and travel company specializing in East African safari experiences, cultural tours, and adventure travel.
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwind-css)
+![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)
 
-## 🌍 Project Overview
+## Overview
 
-Tusker Expeditions offers comprehensive travel services including:
-- Safari tour packages across Kenya, Tanzania, and Uganda
-- Cultural tours and authentic local experiences
-- Luxury accommodations and eco-friendly lodges
-- Vehicle rentals and transportation services
-- AI-powered trip planning and customization
+Premium safari and travel website for **Tusker Expeditions**, a Kenyan-based tours and travel company. This production-ready Next.js 15 application showcases East African safari experiences with sophisticated UI/UX design, comprehensive destination management, custom African-inspired theming, and modern travel booking features.
 
-## 🚀 Tech Stack
+### 🎯 Project Highlights
 
-- **Framework**: Next.js 15 with App Router
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS v4 with custom African-inspired color scheme
-- **UI Components**: Headless UI + Lucide React icons
-- **Animation**: Framer Motion (planned)
-- **Development**: ESLint, Prettier (planned)
+- **Modern Architecture**: Next.js 15 with App Router, TypeScript, and Tailwind CSS v4 for cutting-edge development
+- **Professional Design**: Custom African-inspired color palette (Savanna Gold, Safari Green, Sunset Orange) with Playfair Display typography
+- **Comprehensive Content**: Multi-level navigation covering Kenya, Tanzania, and Uganda destinations with detailed safari packages
+- **User Experience**: Mobile-responsive design, sticky navigation, quick booking widget, and destination autocomplete
+- **Type Safety**: Full TypeScript coverage with structured data models for destinations, packages, and bookings
+
+This project demonstrates expertise in Next.js 15 development, travel/tourism platform architecture, custom theming and branding, responsive UI/UX design, and TypeScript type safety.
+
+**🌐 Live Demo**: Contact for deployment link
+
+### 💼 Key Technologies
+
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | Next.js 15, React 18, TypeScript 5 |
+| **Styling** | Tailwind CSS v4, Custom African Theme |
+| **UI Components** | Headless UI, Lucide React Icons |
+| **Animation** | Framer Motion (planned) |
+| **Development** | ESLint, Prettier |
+| **Build Tool** | Next.js Turbopack |
+| **Deployment** | Vercel Ready |
+
+## 🌍 Services Offered
+
+Tusker Expeditions provides comprehensive travel services including:
+- ✅ Safari tour packages across Kenya, Tanzania, and Uganda
+- ✅ Cultural tours and authentic local experiences
+- ✅ Luxury accommodations and eco-friendly lodges
+- ✅ Vehicle rentals and transportation services
+- ✅ AI-powered trip planning and customization
 
 ## 🎨 Design Theme
 
